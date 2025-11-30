@@ -6,7 +6,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅填到这里，两端引号不要去掉，不要填写到下方链接里去！！"
+    url: "https://cy-0ivp74fp2cw0h.cyyink.cv/api/v1/client/subscribe?token=MTg6YmJhMTMzMDljOTJkNDNkMjgyYzg5M2I4ZTBiY2QyZWMwYjk1OTEzYQ"
     type: http
     interval: 86400
     health-check:
